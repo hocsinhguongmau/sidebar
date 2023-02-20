@@ -1,0 +1,41 @@
+[
+  {
+    "url": "/",
+    "text": "Home"
+  },
+  {
+    "url": "#",
+    "text": "Products",
+    "children": [
+      {
+        "url": "#",
+        "text": "Headphones",
+        "children": [
+          { "url": "/wireless", "text": "Wireless Headphones" },
+          { "url": "/earbuds", "text": "Earbuds" }
+        ]
+      },
+      {
+        "url": "/speakers",
+        "text": "Speakers"
+      },
+      {
+        "url": "#",
+        "text": "Keyboard",
+        "children": [
+          { "url": "/mechanical", "text": "Mechanical Keyboards" },
+          { "url": "/gaming", "text": "Gaming Keyboards" },
+          { "url": "/accessories", "text": "Keyboard Accessories" }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/cart",
+    "text": "Cart"
+  },
+  {
+    "url": "/support",
+    "text": "Support"
+  }
+]
